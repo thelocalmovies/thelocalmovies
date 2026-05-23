@@ -5,15 +5,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>The Local Movies</title>
   <meta name="description" content="A personal physical media movie collection." />
+
+  <!-- Browser tab / mobile home-screen icons -->
+  <link rel="icon" type="image/png" href="assets/Favicon.png" />
+  <link rel="apple-touch-icon" href="assets/Favicon.png" />
+
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <header class="site-header">
-    <div>
-      <p class="eyebrow">A Physical media collection</p>
-      <h1>The Local Movies</h1>
-      <p class="intro">Browse the 4K UHD and Blu-ray physical media movie collection.</p>
+    <div class="brand-block">
+      <a class="brand-link" href="./" aria-label="The Local Movies home">
+        <img class="header-logo" src="assets/Header.png" alt="The Local Movies" />
+      </a>
+      <p class="eyebrow">Physical media collection</p>
+      <p class="intro">Browse my 4K UHD, Blu-ray, and physical movie collection.</p>
     </div>
+
     <div class="stats" aria-live="polite">
       <span id="movieCount">Loading...</span>
       <small id="updatedAt"></small>
@@ -57,7 +65,7 @@
   </main>
 
   <footer class="site-footer">
-    <p>This private movie ownership data comes from Google Sheets. Posters and metadata, where available, are supplied by TMDb.</p>
+    <p>Movie ownership data comes from Google Sheets. Posters and metadata, where available, are supplied by TMDb.</p>
   </footer>
 
   <template id="movieCardTemplate">

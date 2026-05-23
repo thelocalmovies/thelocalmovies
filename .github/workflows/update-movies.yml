@@ -3,7 +3,7 @@ name: Update movie data from Google Sheets
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 18 * * *"
+    - cron: '0 12 * * *'
 
 permissions:
   contents: write
@@ -11,23 +11,31 @@ permissions:
 jobs:
   update-movies:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Check out repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: '20'
 
-      - name: Build movie data
-        run: node scripts/build-movies.js
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run movie builder
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-          GOOGLE_SHEET_CSV_URL: ${{ secrets.GOOGLE_SHEET_CSV_URL }}
+        run: node scripts/build-movies.js
 
       - name: Commit updated movie data
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: Update movie collection data
-          file_pattern: data/movies.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add data/movies.json
+
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update movie data"
+
+          git push

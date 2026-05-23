@@ -1,7 +1,1251 @@
 {
-  "generatedAt": null,
+  "generatedAt": "2026-05-23T06:39:07.039Z",
   "source": "Google Sheets CSV",
-  "tmdbEnabled": false,
-  "count": 0,
-  "movies": []
+  "sourceUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQIiZPy4x2y8nUIu9W3ZISLTuD7cm6kQ2wsJlq07gbSnPhc7Avong2zDaJ9PI7PJfrHP6blBQT8wVRb/pub?gid=367444898&single=true&output=csv",
+  "tmdbEnabled": true,
+  "count": 39,
+  "movies": [
+    {
+      "no": "1",
+      "title": "300",
+      "year": "2006",
+      "imdbId": "tt0416449",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "US",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 1271,
+        "title": "300",
+        "originalTitle": "300",
+        "releaseDate": "2007-03-07",
+        "runtime": 117,
+        "overview": "A story very loosely based the 480 B.C. Battle of Thermopylae, where the King of Sparta led his army against the advancing Persians.",
+        "voteAverage": 7.198,
+        "voteCount": 14690,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/lgBZlJ1LHQel5nneNQMoesmvc7l.jpg",
+        "genres": [
+          "Action",
+          "Adventure",
+          "War"
+        ]
+      }
+    },
+    {
+      "no": "2",
+      "title": "Back To The Future",
+      "year": "1985",
+      "imdbId": "tt0088763",
+      "ownership": {
+        "certification": "PG",
+        "boughtFrom": "AU",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 105,
+        "title": "Back to the Future",
+        "originalTitle": "Back to the Future",
+        "releaseDate": "1985-07-03",
+        "runtime": 116,
+        "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+        "voteAverage": 8.326,
+        "voteCount": 21773,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Science Fiction"
+        ]
+      }
+    },
+    {
+      "no": "3",
+      "title": "Back To The Future: Part II",
+      "year": "1989",
+      "imdbId": "tt0096874",
+      "ownership": {
+        "certification": "PG",
+        "boughtFrom": "AU",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 165,
+        "title": "Back to the Future Part II",
+        "originalTitle": "Back to the Future Part II",
+        "releaseDate": "1989-11-22",
+        "runtime": 108,
+        "overview": "Marty and Doc are at it again as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
+        "voteAverage": 7.781,
+        "voteCount": 13915,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/w6tPctxWAsHoQXeKxxNOT6lYKpx.jpg",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Science Fiction"
+        ]
+      }
+    },
+    {
+      "no": "4",
+      "title": "Back To The Future: Part III",
+      "year": "1990",
+      "imdbId": "tt0099088",
+      "ownership": {
+        "certification": "PG",
+        "boughtFrom": "AU",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 196,
+        "title": "Back to the Future Part III",
+        "originalTitle": "Back to the Future Part III",
+        "releaseDate": "1990-05-25",
+        "runtime": 119,
+        "overview": "The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
+        "voteAverage": 7.492,
+        "voteCount": 11503,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/AtF7TESJEMmImBRUj9Z7HmW2ZH0.jpg",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Science Fiction"
+        ]
+      }
+    },
+    {
+      "no": "5",
+      "title": "Blade Runner",
+      "year": "1982",
+      "imdbId": "tt0083658",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "NZ",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 78,
+        "title": "Blade Runner",
+        "originalTitle": "Blade Runner",
+        "releaseDate": "1982-06-25",
+        "runtime": 118,
+        "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+        "voteAverage": 7.938,
+        "voteCount": 14957,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/hJ5R9d6QuH3tzr8L8neZZTuzNXm.jpg",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Thriller"
+        ]
+      }
+    },
+    {
+      "no": "6",
+      "title": "Blade Runner 2049",
+      "year": "2017",
+      "imdbId": "tt1856101",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "US",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 335984,
+        "title": "Blade Runner 2049",
+        "originalTitle": "Blade Runner 2049",
+        "releaseDate": "2017-10-04",
+        "runtime": 164,
+        "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+        "voteAverage": 7.593,
+        "voteCount": 15103,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/mVr0UiqyltcfqxbAUcLl9zWL8ah.jpg",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      }
+    },
+    {
+      "no": "7",
+      "title": "Casino Royale",
+      "year": "2006",
+      "imdbId": "tt0381061",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "UK",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 36557,
+        "title": "Casino Royale",
+        "originalTitle": "Casino Royale",
+        "releaseDate": "2006-11-14",
+        "runtime": 144,
+        "overview": "Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a high-stakes poker game in Montenegro, where he intends to use his winnings to establish his financial grip on the terrorist market. M sends Bond—on his maiden mission as a 00 Agent—to attend this game and prevent Le Chiffre from winning. With the help of Vesper Lynd and Felix Leiter, Bond enters the most important poker game in his already dangerous career.",
+        "voteAverage": 7.569,
+        "voteCount": 11664,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/klJMCIblHLFwCuGjKz7tyOpekIC.jpg",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Thriller"
+        ]
+      }
+    },
+    {
+      "no": "8",
+      "title": "Dune: Part One",
+      "year": "2021",
+      "imdbId": "tt1160419",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "NZ",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 438631,
+        "title": "Dune",
+        "originalTitle": "Dune",
+        "releaseDate": "2021-09-15",
+        "runtime": 155,
+        "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+        "voteAverage": 7.781,
+        "voteCount": 14863,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/zRKQW58MBEY078AxkHxEJzUskCl.jpg",
+        "genres": [
+          "Science Fiction",
+          "Adventure"
+        ]
+      }
+    },
+    {
+      "no": "9",
+      "title": "Dune: Part Two",
+      "year": "2024",
+      "imdbId": "tt15239678",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "NZ",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 693134,
+        "title": "Dune: Part Two",
+        "originalTitle": "Dune: Part Two",
+        "releaseDate": "2024-02-27",
+        "runtime": 167,
+        "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+        "voteAverage": 8.128,
+        "voteCount": 7933,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+        "genres": [
+          "Science Fiction",
+          "Adventure"
+        ]
+      }
+    },
+    {
+      "no": "10",
+      "title": "Edge of Tomorrow: Live. Die. Repeat.",
+      "year": "2014",
+      "imdbId": "tt1631867",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "US",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 137113,
+        "title": "Edge of Tomorrow",
+        "originalTitle": "Edge of Tomorrow",
+        "releaseDate": "2014-05-27",
+        "runtime": 114,
+        "overview": "Major Bill Cage is an officer who has never seen a day of combat when he is unceremoniously demoted and dropped into combat. Cage is killed within minutes, managing to take an alpha alien down with him. He awakens back at the beginning of the same day and is forced to fight and die again... and again - as physical contact with the alien has thrown him into a time loop.",
+        "voteAverage": 7.638,
+        "voteCount": 15033,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/4V1yIoAKPMRQwGBaSses8Bp2nsi.jpg",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      }
+    },
+    {
+      "no": "11",
+      "title": "E.T. The Extra-Terrestrial",
+      "year": "1982",
+      "imdbId": "tt0083866",
+      "ownership": {
+        "certification": "PG",
+        "boughtFrom": "US",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 601,
+        "title": "E.T. the Extra-Terrestrial",
+        "originalTitle": "E.T. the Extra-Terrestrial",
+        "releaseDate": "1982-06-11",
+        "runtime": 115,
+        "overview": "An alien is left behind on Earth and saved by the 10-year-old Elliott who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliott, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
+        "voteAverage": 7.5,
+        "voteCount": 11981,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+        "genres": [
+          "Adventure",
+          "Science Fiction",
+          "Family"
+        ]
+      }
+    },
+    {
+      "no": "12",
+      "title": "I Am Legend",
+      "year": "2007",
+      "imdbId": "tt0480249",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "AU",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 6479,
+        "title": "I Am Legend",
+        "originalTitle": "I Am Legend",
+        "releaseDate": "2007-12-12",
+        "runtime": 101,
+        "overview": "Robert Neville is a scientist who was unable to stop the spread of the terrible virus that was incurable and man-made. Immune, Neville is now the last human survivor in what is left of New York City and perhaps the world. For three years, Neville has faithfully sent out daily radio messages, desperate to find any other survivors who might be out there. But he is not alone.",
+        "voteAverage": 7.214,
+        "voteCount": 16813,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/aTLq0TMKdsmIy1ZyFM1LfPs326d.jpg",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ]
+      }
+    },
+    {
+      "no": "13",
+      "title": "John Wick",
+      "year": "2014",
+      "imdbId": "tt2911666",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "NZ",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 245891,
+        "title": "John Wick",
+        "originalTitle": "John Wick",
+        "releaseDate": "2014-10-16",
+        "runtime": 101,
+        "overview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+        "voteAverage": 7.455,
+        "voteCount": 20802,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      }
+    },
+    {
+      "no": "14",
+      "title": "Jurassic Park",
+      "year": "1993",
+      "imdbId": "tt0107290",
+      "ownership": {
+        "certification": "PG",
+        "boughtFrom": "NZ",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 329,
+        "title": "Jurassic Park",
+        "originalTitle": "Jurassic Park",
+        "releaseDate": "1993-06-11",
+        "runtime": 127,
+        "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+        "voteAverage": 7.968,
+        "voteCount": 17829,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/maFjKnJ62hDQ9E66dKqDZgbUy0H.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/jzt9HuhIAdH9qp0K2MA1m5V8sgq.jpg",
+        "genres": [
+          "Adventure",
+          "Science Fiction"
+        ]
+      }
+    },
+    {
+      "no": "15",
+      "title": "Lord of the Rings: The Fellowship of the Ring",
+      "year": "2001",
+      "imdbId": "tt0120737",
+      "ownership": {
+        "certification": "PG",
+        "boughtFrom": "NZ",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 120,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "originalTitle": "The Lord of the Rings: The Fellowship of the Ring",
+        "releaseDate": "2001-12-18",
+        "runtime": 179,
+        "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+        "voteAverage": 8.434,
+        "voteCount": 27511,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/a0lfia8tk8ifkrve0Tn8wkISUvs.jpg",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      }
+    },
+    {
+      "no": "16",
+      "title": "Lord of the Rings: The Return of the King",
+      "year": "2003",
+      "imdbId": "tt0167260",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "NZ",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 122,
+        "title": "The Lord of the Rings: The Return of the King",
+        "originalTitle": "The Lord of the Rings: The Return of the King",
+        "releaseDate": "2003-12-17",
+        "runtime": 201,
+        "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",
+        "voteAverage": 8.498,
+        "voteCount": 26506,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      }
+    },
+    {
+      "no": "17",
+      "title": "Lord of the Rings: The Two Towers",
+      "year": "2002",
+      "imdbId": "tt0167261",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "NZ",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 121,
+        "title": "The Lord of the Rings: The Two Towers",
+        "originalTitle": "The Lord of the Rings: The Two Towers",
+        "releaseDate": "2002-12-18",
+        "runtime": 179,
+        "overview": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor. Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+        "voteAverage": 8.418,
+        "voteCount": 23849,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      }
+    },
+    {
+      "no": "18",
+      "title": "Man of Steel",
+      "year": "2013",
+      "imdbId": "tt0770828",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "US",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 49521,
+        "title": "Man of Steel",
+        "originalTitle": "Man of Steel",
+        "releaseDate": "2013-06-12",
+        "runtime": 143,
+        "overview": "A young boy learns that he has extraordinary powers and is not of this earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.",
+        "voteAverage": 6.646,
+        "voteCount": 16166,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/cB46TSg3kGjq2eVy5kVUhlpUa1H.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/69EFgWWPFWbRNHmQgYdSnyJ94Ge.jpg",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      }
+    },
+    {
+      "no": "19",
+      "title": "Minority Report",
+      "year": "2002",
+      "imdbId": "tt0181689",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "UK",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 180,
+        "title": "Minority Report",
+        "originalTitle": "Minority Report",
+        "releaseDate": "2002-06-20",
+        "runtime": 145,
+        "overview": "John Anderton is a top 'Precrime' cop in the late-21st century, when technology can predict crimes before they're committed. But Anderton becomes the quarry when another investigator targets him for a murder charge.",
+        "voteAverage": 7.354,
+        "voteCount": 9608,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/PrMb3oeEluauy0q9ZO5xL33A6C.jpg",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Thriller"
+        ]
+      }
+    },
+    {
+      "no": "20",
+      "title": "Nacho Libre",
+      "year": "2006",
+      "imdbId": "tt0457510",
+      "ownership": {
+        "certification": "PG",
+        "boughtFrom": "NZ",
+        "format": "Blu-ray",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 9353,
+        "title": "Nacho Libre",
+        "originalTitle": "Nacho Libre",
+        "releaseDate": "2006-06-16",
+        "runtime": 92,
+        "overview": "Ignacio, a disrespected cook at a Mexican monastery, can barely afford to feed the orphans who live there. Inspired by a local wrestling hero, he decides to moonlight as the not-so-famous Luchador \"Nacho Libre\" to earn money for the monastery -- not to mention the admiration of beautiful nun Sister Encarnación.",
+        "voteAverage": 6.513,
+        "voteCount": 1841,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/kh7B91bMl2lZ0mH9WhPfaNUIEQH.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/g2yTT9lB5I1DA1uBWT7m4wrYuVz.jpg",
+        "genres": [
+          "Comedy"
+        ]
+      }
+    },
+    {
+      "no": "21",
+      "title": "No Time To Die",
+      "year": "2021",
+      "imdbId": "tt2382320",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "UK",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 370172,
+        "title": "No Time to Die",
+        "originalTitle": "No Time to Die",
+        "releaseDate": "2021-09-29",
+        "runtime": 163,
+        "overview": "Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+        "voteAverage": 7.341,
+        "voteCount": 7086,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/x9td0NQha0t44K2qgcMipLOGjVi.jpg",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Adventure"
+        ]
+      }
+    },
+    {
+      "no": "22",
+      "title": "Oblivion",
+      "year": "2013",
+      "imdbId": "tt1483013",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "AU",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 75612,
+        "title": "Oblivion",
+        "originalTitle": "Oblivion",
+        "releaseDate": "2013-04-10",
+        "runtime": 124,
+        "overview": "Jack Harper is one of the last few drone repairmen stationed on Earth. Part of a massive operation to extract vital resources after decades of war with a terrifying threat known as the Scavs, Jack’s mission is nearly complete. His existence is brought crashing down when he rescues a beautiful  stranger from a downed spacecraft. Her arrival triggers a chain of events that  forces him to question everything he knows and puts the fate of humanity in his hands.",
+        "voteAverage": 6.678,
+        "voteCount": 11487,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/bYLM3GpNUZnoFElPXp1zlhDPdtv.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/2kVt8oj1cSz4GAP0Hi8SESOiH0T.jpg",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Adventure",
+          "Mystery"
+        ]
+      }
+    },
+    {
+      "no": "23",
+      "title": "Quantum of Solace",
+      "year": "2008",
+      "imdbId": "tt0830515",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "UK",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 10764,
+        "title": "Quantum of Solace",
+        "originalTitle": "Quantum of Solace",
+        "releaseDate": "2008-10-29",
+        "runtime": 106,
+        "overview": "Betrayed by Vesper, the woman he loved, 007 fights the urge to make his latest mission personal. Pursuing his determination to uncover the truth, Bond and M interrogate Mr. White, who reveals that the organization that blackmailed Vesper is far more complex and dangerous than anyone had imagined.",
+        "voteAverage": 6.336,
+        "voteCount": 8524,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/e3DXXLJHGqMx9yYpXsql1XNljmM.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/3CqMIX3ZlrD0pU3fpBL6DM0Cneb.jpg",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Thriller"
+        ]
+      }
+    },
+    {
+      "no": "24",
+      "title": "Ready Player One",
+      "year": "2018",
+      "imdbId": "tt1677720",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "AU",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 333339,
+        "title": "Ready Player One",
+        "originalTitle": "Ready Player One",
+        "releaseDate": "2018-03-28",
+        "runtime": 140,
+        "overview": "When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.",
+        "voteAverage": 7.585,
+        "voteCount": 16883,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      }
+    },
+    {
+      "no": "25",
+      "title": "Skyfall",
+      "year": "2012",
+      "imdbId": "tt1074638",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "UK",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 37724,
+        "title": "Skyfall",
+        "originalTitle": "Skyfall",
+        "releaseDate": "2012-10-24",
+        "runtime": 143,
+        "overview": "When Bond's latest assignment goes gravely wrong, agents around the world are exposed and MI6 headquarters is attacked. While M faces challenges to her authority and position from Gareth Mallory, the new Chairman of the Intelligence and Security Committee, it's up to Bond, aided only by field agent Eve, to locate the mastermind behind the attack.",
+        "voteAverage": 7.261,
+        "voteCount": 16108,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/qB2eFmGEh5YCzhXUpz7As2PaDCh.jpg",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      }
+    },
+    {
+      "no": "26",
+      "title": "Sonic the Hedgehog",
+      "year": "2020",
+      "imdbId": "tt3794354",
+      "ownership": {
+        "certification": "PG",
+        "boughtFrom": "NZ",
+        "format": "Blu-ray",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 454626,
+        "title": "Sonic the Hedgehog",
+        "originalTitle": "Sonic the Hedgehog",
+        "releaseDate": "2020-02-12",
+        "runtime": 99,
+        "overview": "Powered with incredible speed, Sonic The Hedgehog embraces his new home on Earth. That is, until Sonic sparks the attention of super-uncool evil genius Dr. Robotnik. Now it’s super-villain vs. super-sonic in an all-out race across the globe to stop Robotnik from using Sonic’s unique power for world domination.",
+        "voteAverage": 7.285,
+        "voteCount": 10378,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/stmYfCUGd8Iy6kAMBr6AmWqx8Bq.jpg",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Comedy",
+          "Family"
+        ]
+      }
+    },
+    {
+      "no": "27",
+      "title": "Sonic the Hedgehog 2",
+      "year": "2022",
+      "imdbId": "tt12412888",
+      "ownership": {
+        "certification": "PG",
+        "boughtFrom": "NZ",
+        "format": "Blu-ray",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 675353,
+        "title": "Sonic the Hedgehog 2",
+        "originalTitle": "Sonic the Hedgehog 2",
+        "releaseDate": "2022-03-30",
+        "runtime": 123,
+        "overview": "After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.",
+        "voteAverage": 7.43,
+        "voteCount": 5859,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/xuLA0pii2IMJW2puT7EvJtgpg0H.jpg",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Family",
+          "Comedy"
+        ]
+      }
+    },
+    {
+      "no": "28",
+      "title": "Sonic the Hedgehog 3",
+      "year": "2024",
+      "imdbId": "tt18259086",
+      "ownership": {
+        "certification": "PG",
+        "boughtFrom": "NZ",
+        "format": "Blu-ray",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 939243,
+        "title": "Sonic the Hedgehog 3",
+        "originalTitle": "Sonic the Hedgehog 3",
+        "releaseDate": "2024-12-19",
+        "runtime": 110,
+        "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+        "voteAverage": 7.616,
+        "voteCount": 3270,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Comedy",
+          "Family"
+        ]
+      }
+    },
+    {
+      "no": "29",
+      "title": "Spectre",
+      "year": "2015",
+      "imdbId": "tt2379713",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "UK",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 206647,
+        "title": "Spectre",
+        "originalTitle": "Spectre",
+        "releaseDate": "2015-10-26",
+        "runtime": 148,
+        "overview": "A cryptic message from Bond’s past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE.",
+        "voteAverage": 6.569,
+        "voteCount": 11232,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/zj8ongFhtWNsVlfjOGo8pSr7PQg.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/8lBViysvNJBPkl6zG1LVAaW3qhj.jpg",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      }
+    },
+    {
+      "no": "30",
+      "title": "Terminator",
+      "year": "1984",
+      "imdbId": "tt0088247",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "NZ",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 218,
+        "title": "The Terminator",
+        "originalTitle": "The Terminator",
+        "releaseDate": "1984-10-26",
+        "runtime": 108,
+        "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+        "voteAverage": 7.681,
+        "voteCount": 14574,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      }
+    },
+    {
+      "no": "31",
+      "title": "Terminator 2: Judgement Day",
+      "year": "1991",
+      "imdbId": "tt0103064",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "AU",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 280,
+        "title": "Terminator 2: Judgment Day",
+        "originalTitle": "Terminator 2: Judgment Day",
+        "releaseDate": "1991-07-03",
+        "runtime": 137,
+        "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+        "voteAverage": 8.148,
+        "voteCount": 14254,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      }
+    },
+    {
+      "no": "32",
+      "title": "The Bourne Identity",
+      "year": "2002",
+      "imdbId": "tt0258463",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "US",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 2501,
+        "title": "The Bourne Identity",
+        "originalTitle": "The Bourne Identity",
+        "releaseDate": "2002-06-14",
+        "runtime": 119,
+        "overview": "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
+        "voteAverage": 7.477,
+        "voteCount": 10070,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/aP8swke3gmowbkfZ6lmNidu0y9p.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/kJaRWmy1BGq3pHyE94LOTteiHer.jpg",
+        "genres": [
+          "Action",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      }
+    },
+    {
+      "no": "33",
+      "title": "The Dark Knight",
+      "year": "2008",
+      "imdbId": "tt0468569",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "NZ",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 155,
+        "title": "The Dark Knight",
+        "originalTitle": "The Dark Knight",
+        "releaseDate": "2008-07-16",
+        "runtime": 152,
+        "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+        "voteAverage": 8.53,
+        "voteCount": 35744,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      }
+    },
+    {
+      "no": "34",
+      "title": "The Matrix",
+      "year": "1999",
+      "imdbId": "tt0133093",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "NZ",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 603,
+        "title": "The Matrix",
+        "originalTitle": "The Matrix",
+        "releaseDate": "1999-03-31",
+        "runtime": 136,
+        "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+        "voteAverage": 8.245,
+        "voteCount": 27857,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      }
+    },
+    {
+      "no": "35",
+      "title": "Titanic",
+      "year": "1997",
+      "imdbId": "tt0120338",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "UK",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 597,
+        "title": "Titanic",
+        "originalTitle": "Titanic",
+        "releaseDate": "1997-12-18",
+        "runtime": 194,
+        "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
+        "voteAverage": 7.902,
+        "voteCount": 27123,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      }
+    },
+    {
+      "no": "36",
+      "title": "Top Gun: Maverick",
+      "year": "2022",
+      "imdbId": "tt1745960",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "NZ",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 361743,
+        "title": "Top Gun: Maverick",
+        "originalTitle": "Top Gun: Maverick",
+        "releaseDate": "2022-05-21",
+        "runtime": 131,
+        "overview": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+        "voteAverage": 8.158,
+        "voteCount": 10940,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+        "genres": [
+          "Action",
+          "Drama"
+        ]
+      }
+    },
+    {
+      "no": "37",
+      "title": "Tron Legacy",
+      "year": "2010",
+      "imdbId": "tt1104001",
+      "ownership": {
+        "certification": "PG",
+        "boughtFrom": "UK",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 20526,
+        "title": "TRON: Legacy",
+        "originalTitle": "TRON: Legacy",
+        "releaseDate": "2010-12-14",
+        "runtime": 126,
+        "overview": "Sam Flynn, the tech-savvy and daring son of Kevin Flynn, investigates his father's disappearance and is pulled into The Grid. With the help of a mysterious program named Quorra, Sam quests to stop evil dictator Clu from crossing into the real world.",
+        "voteAverage": 6.543,
+        "voteCount": 7905,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/8Nc6R8k7bG8frSiDJo0oLucF7dN.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/uUa6jgSr5BQpcBhhaz1PV1JhSa4.jpg",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      }
+    },
+    {
+      "no": "38",
+      "title": "Twister",
+      "year": "1996",
+      "imdbId": "tt0117998",
+      "ownership": {
+        "certification": "PG",
+        "boughtFrom": "AU",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 664,
+        "title": "Twister",
+        "originalTitle": "Twister",
+        "releaseDate": "1996-05-10",
+        "runtime": 113,
+        "overview": "An unprecedented series of violent tornadoes is sweeping across Oklahoma. Tornado chasers, headed by Dr. Jo Harding, attempt to release a groundbreaking device that will allow them to track them and create a more advanced warning system. They are joined by Jo's soon to be ex-husband Bill, a former tornado chaser himself, and his girlfriend Melissa.",
+        "voteAverage": 6.557,
+        "voteCount": 3837,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/d4ie3f6QTvNw40V770Uzo87SDZn.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/5oCAo7LFj2x0yByfi5JYirGnK8I.jpg",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama"
+        ]
+      }
+    },
+    {
+      "no": "39",
+      "title": "Vertigo",
+      "year": "1958",
+      "imdbId": "tt0052357",
+      "ownership": {
+        "certification": "PG",
+        "boughtFrom": "AU",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-23",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 426,
+        "title": "Vertigo",
+        "originalTitle": "Vertigo",
+        "releaseDate": "1958-05-09",
+        "runtime": 128,
+        "overview": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+        "voteAverage": 8.1,
+        "voteCount": 6319,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/y26a4Lettw0PqluxwUl1dkNKssF.jpg",
+        "genres": [
+          "Mystery",
+          "Romance",
+          "Thriller"
+        ]
+      }
+    }
+  ]
 }

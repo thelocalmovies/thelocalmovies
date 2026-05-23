@@ -142,6 +142,7 @@ function createMovieCard(movie) {
   const links = node.querySelector('.links');
 
   const posterUrl = movie.ownership.posterOverrideUrl || movie.tmdb?.posterUrl;
+  const imdbUrl = getImdbUrl(movie);
 
   title.textContent = movie.title || 'Untitled';
   year.textContent = movie.year || '';
@@ -168,21 +169,29 @@ function createMovieCard(movie) {
   addDetail(details, 'Rating', movie.tmdb?.voteAverage ? `${movie.tmdb.voteAverage.toFixed(1)} / 10` : '');
   addDetail(details, 'Notes', movie.ownership.notes);
 
-  if (movie.imdbId) {
+  if (imdbUrl) {
     const imdb = document.createElement('a');
-    imdb.href = `https://www.imdb.com/title/${movie.imdbId}/`;
+    imdb.href = imdbUrl;
     imdb.target = '_blank';
     imdb.rel = 'noopener noreferrer';
-    imdb.textContent = 'IMDb';
+    imdb.textContent = 'View IMDb';
+    imdb.className = 'action-link imdb-link';
     links.append(imdb);
-  }
 
-  if (movie.tmdb?.id) {
+    const share = document.createElement('button');
+    share.type = 'button';
+    share.textContent = 'Share';
+    share.className = 'action-link share-button';
+    share.addEventListener('click', () => shareMovie(movie));
+    links.append(share);
+  } else if (movie.tmdb?.id) {
+    // Only show TMDb when an IMDb link is not available.
     const tmdb = document.createElement('a');
     tmdb.href = `https://www.themoviedb.org/movie/${movie.tmdb.id}`;
     tmdb.target = '_blank';
     tmdb.rel = 'noopener noreferrer';
-    tmdb.textContent = 'TMDb';
+    tmdb.textContent = 'View TMDb';
+    tmdb.className = 'action-link tmdb-link';
     links.append(tmdb);
   }
 
@@ -191,6 +200,60 @@ function createMovieCard(movie) {
 
   card.dataset.title = movie.title || '';
   return node;
+}
+
+function getImdbUrl(movie) {
+  const imdbId = normaliseImdbId(movie.imdbId || movie.imdbID || movie.imdb_id || movie.ownership?.imdbId || '');
+  return imdbId ? `https://www.imdb.com/title/${imdbId}/` : '';
+}
+
+function normaliseImdbId(value) {
+  const raw = String(value || '').trim();
+  if (!raw) return '';
+
+  const match = raw.match(/tt\d{7,10}/i);
+  return match ? match[0].toLowerCase() : '';
+}
+
+async function shareMovie(movie) {
+  const imdbUrl = getImdbUrl(movie);
+
+  if (!imdbUrl) {
+    alert('IMDb link is not available for this movie.');
+    return;
+  }
+
+  const movieTitle = movie.title || 'Movie';
+  const yearText = movie.year ? ` (${movie.year})` : '';
+  const shareTitle = `${movieTitle}${yearText}`;
+
+  const shareData = {
+    title: shareTitle,
+    text: `Check out ${shareTitle} on IMDb`,
+    url: imdbUrl
+  };
+
+  if (navigator.share) {
+    try {
+      await navigator.share(shareData);
+      return;
+    } catch (error) {
+      // Most commonly, the visitor cancelled the native share tray.
+      if (error.name === 'AbortError') return;
+      console.warn('Native sharing failed. Falling back to copy:', error);
+    }
+  }
+
+  await copyImdbLink(imdbUrl);
+}
+
+async function copyImdbLink(imdbUrl) {
+  try {
+    await navigator.clipboard.writeText(imdbUrl);
+    alert('IMDb link copied to clipboard.');
+  } catch (error) {
+    prompt('Copy this IMDb link:', imdbUrl);
+  }
 }
 
 function addDetail(container, label, value) {

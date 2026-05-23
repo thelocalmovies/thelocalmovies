@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The Local Movies</title>
+  <meta name="description" content="A personal physical media movie collection." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div>
+      <p class="eyebrow">Physical media collection</p>
+      <h1>The Local Movies</h1>
+      <p class="intro">Browse my 4K UHD, Blu-ray, and physical movie collection.</p>
+    </div>
+    <div class="stats" aria-live="polite">
+      <span id="movieCount">Loading...</span>
+      <small id="updatedAt"></small>
+    </div>
+  </header>
+
+  <main>
+    <section class="controls" aria-label="Collection controls">
+      <label class="search-box">
+        <span>Search</span>
+        <input id="searchInput" type="search" placeholder="Search title, genre, notes..." autocomplete="off" />
+      </label>
+
+      <label>
+        <span>Format</span>
+        <select id="formatFilter">
+          <option value="">All formats</option>
+        </select>
+      </label>
+
+      <label>
+        <span>Certification</span>
+        <select id="certFilter">
+          <option value="">All certifications</option>
+        </select>
+      </label>
+
+      <label>
+        <span>Sort</span>
+        <select id="sortSelect">
+          <option value="title-asc">Title A–Z</option>
+          <option value="year-desc">Year newest first</option>
+          <option value="date-desc">Date added newest first</option>
+          <option value="rating-desc">TMDb rating highest first</option>
+        </select>
+      </label>
+    </section>
+
+    <section id="status" class="status" hidden></section>
+    <section id="movieGrid" class="movie-grid" aria-live="polite"></section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Movie ownership data comes from Google Sheets. Posters and metadata, where available, are supplied by TMDb.</p>
+  </footer>
+
+  <template id="movieCardTemplate">
+    <article class="movie-card">
+      <div class="poster-wrap">
+        <img class="poster" alt="" loading="lazy" />
+        <div class="poster-fallback" aria-hidden="true"></div>
+      </div>
+      <div class="card-body">
+        <div class="title-row">
+          <h2></h2>
+          <span class="year"></span>
+        </div>
+        <p class="meta-line"></p>
+        <p class="overview"></p>
+        <dl class="details"></dl>
+        <div class="links"></div>
+      </div>
+    </article>
+  </template>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>

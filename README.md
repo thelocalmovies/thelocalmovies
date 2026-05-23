@@ -1,16 +1,46 @@
-## Hi there 👋
+# The Local Movies
 
-<!--
-**thelocalmovies/thelocalmovies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A static GitHub Pages movie collection site powered by a published Google Sheet and enriched with TMDb metadata through GitHub Actions.
 
-Here are some ideas to get you started:
+## How it works
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Google Sheets is the master list.
+2. GitHub Actions downloads the published CSV.
+3. The build script uses IMDb IDs from the sheet to find matching TMDb records.
+4. The action writes `data/movies.json`.
+5. GitHub Pages displays the collection as movie cards.
+
+## Required GitHub secret
+
+Create this repository secret:
+
+- `TMDB_API_KEY` — your TMDb API key.
+
+Optional:
+
+- `GOOGLE_SHEET_CSV_URL` — only needed if you want to override the hard-coded published CSV URL in `scripts/build-movies.js`.
+
+## Google Sheet columns supported
+
+- NO.
+- TITLE
+- YEAR
+- CERTIFICATION
+- BOUGHT FROM
+- FORMAT
+- EDITION
+- IMDb ID
+- NOTES
+- DATE ADDED
+- Poster URL / Poster Override URL, optional
+
+## First run
+
+After uploading these files:
+
+1. Go to **Settings → Secrets and variables → Actions**.
+2. Add `TMDB_API_KEY`.
+3. Go to **Actions → Update movie data from Google Sheets**.
+4. Click **Run workflow**.
+5. Enable GitHub Pages from **Settings → Pages** and deploy from the `main` branch, root folder.
+

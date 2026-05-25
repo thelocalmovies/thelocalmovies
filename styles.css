@@ -154,6 +154,9 @@ select {
   border-radius: var(--radius);
   background: linear-gradient(180deg, rgba(32, 35, 43, 0.95), rgba(24, 26, 32, 0.95));
   box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
 }
 
 .poster-wrap {
@@ -183,7 +186,12 @@ select {
 .poster[hidden],
 .poster-fallback[hidden] { display: none; }
 
-.card-body { padding: 16px; }
+.card-body {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
 
 .title-row {
   display: flex;
@@ -238,7 +246,8 @@ dd { margin: 0; }
   display: flex;
   gap: 10px;
   flex-wrap: wrap;
-  margin-top: 14px;
+  margin-top: auto;
+  padding-top: 16px;
 }
 
 .action-link {

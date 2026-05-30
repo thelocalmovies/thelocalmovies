@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-29T20:40:27.537Z",
+  "generatedAt": "2026-05-30T02:19:48.718Z",
   "source": "Google Sheets CSV",
   "sourceUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQIiZPy4x2y8nUIu9W3ZISLTuD7cm6kQ2wsJlq07gbSnPhc7Avong2zDaJ9PI7PJfrHP6blBQT8wVRb/pub?gid=367444898&single=true&output=csv",
   "tmdbEnabled": true,
-  "count": 53,
+  "count": 57,
   "movies": [
     {
       "no": "1",
@@ -91,7 +91,7 @@
         "runtime": 108,
         "overview": "Marty and Doc are at it again as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
         "voteAverage": 7.781,
-        "voteCount": 13925,
+        "voteCount": 13926,
         "posterUrl": "https://image.tmdb.org/t/p/w500/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/w6tPctxWAsHoQXeKxxNOT6lYKpx.jpg",
         "genres": [
@@ -123,7 +123,7 @@
         "runtime": 119,
         "overview": "The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
         "voteAverage": 7.493,
-        "voteCount": 11516,
+        "voteCount": 11517,
         "posterUrl": "https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/AtF7TESJEMmImBRUj9Z7HmW2ZH0.jpg",
         "genres": [
@@ -135,6 +135,37 @@
     },
     {
       "no": "5",
+      "title": "Blade",
+      "year": "1998",
+      "imdbId": "tt0120611",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "NZ",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-30",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 36647,
+        "title": "Blade",
+        "originalTitle": "Blade",
+        "releaseDate": "1998-08-21",
+        "runtime": 121,
+        "overview": "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
+        "voteAverage": 6.835,
+        "voteCount": 6696,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/oWT70TvbsmQaqyphCZpsnQR7R32.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/7NKfxJrQn053UJeLftlx4m4NTzo.jpg",
+        "genres": [
+          "Horror",
+          "Action"
+        ]
+      }
+    },
+    {
+      "no": "6",
       "title": "Blade Runner",
       "year": "1982",
       "imdbId": "tt0083658",
@@ -154,8 +185,8 @@
         "releaseDate": "1982-06-25",
         "runtime": 118,
         "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
-        "voteAverage": 7.938,
-        "voteCount": 14971,
+        "voteAverage": 7.937,
+        "voteCount": 14973,
         "posterUrl": "https://image.tmdb.org/t/p/w500/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/hJ5R9d6QuH3tzr8L8neZZTuzNXm.jpg",
         "genres": [
@@ -166,7 +197,7 @@
       }
     },
     {
-      "no": "6",
+      "no": "7",
       "title": "Blade Runner 2049",
       "year": "2017",
       "imdbId": "tt1856101",
@@ -187,7 +218,7 @@
         "runtime": 164,
         "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
         "voteAverage": 7.594,
-        "voteCount": 15126,
+        "voteCount": 15127,
         "posterUrl": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/mVr0UiqyltcfqxbAUcLl9zWL8ah.jpg",
         "genres": [
@@ -197,7 +228,7 @@
       }
     },
     {
-      "no": "7",
+      "no": "8",
       "title": "Casino Royale",
       "year": "2006",
       "imdbId": "tt0381061",
@@ -229,7 +260,7 @@
       }
     },
     {
-      "no": "8",
+      "no": "9",
       "title": "Dune: Part One",
       "year": "2021",
       "imdbId": "tt1160419",
@@ -260,7 +291,7 @@
       }
     },
     {
-      "no": "9",
+      "no": "10",
       "title": "Dune: Part Two",
       "year": "2024",
       "imdbId": "tt15239678",
@@ -291,7 +322,7 @@
       }
     },
     {
-      "no": "10",
+      "no": "11",
       "title": "E.T. The Extra-Terrestrial",
       "year": "1982",
       "imdbId": "tt0083866",
@@ -323,7 +354,7 @@
       }
     },
     {
-      "no": "11",
+      "no": "12",
       "title": "Edge of Tomorrow: Live. Die. Repeat.",
       "year": "2014",
       "imdbId": "tt1631867",
@@ -354,7 +385,7 @@
       }
     },
     {
-      "no": "12",
+      "no": "13",
       "title": "Harry Potter and the Chamber of Secrets",
       "year": "2002",
       "imdbId": "tt0295297",
@@ -375,7 +406,7 @@
         "runtime": 161,
         "overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione's magical abilities and courage.",
         "voteAverage": 7.704,
-        "voteCount": 23572,
+        "voteCount": 23573,
         "posterUrl": "https://image.tmdb.org/t/p/w500/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/1stUIsjawROZxjiCMtqqXqgfZWC.jpg",
         "genres": [
@@ -385,7 +416,7 @@
       }
     },
     {
-      "no": "13",
+      "no": "14",
       "title": "Harry Potter and the Deathly Hallows: Part 1",
       "year": "2010",
       "imdbId": "tt0926084",
@@ -416,7 +447,7 @@
       }
     },
     {
-      "no": "14",
+      "no": "15",
       "title": "Harry Potter and the Deathly Hallows: Part 2",
       "year": "2011",
       "imdbId": "tt1201607",
@@ -437,7 +468,7 @@
         "runtime": 130,
         "overview": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
         "voteAverage": 8.08,
-        "voteCount": 21969,
+        "voteCount": 21970,
         "posterUrl": "https://image.tmdb.org/t/p/w500/c54HpQmuwXjHq2C9wmoACjxoom3.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/cbcpDn6XJaIGoOil1bKuskU8ds4.jpg",
         "genres": [
@@ -447,7 +478,7 @@
       }
     },
     {
-      "no": "15",
+      "no": "16",
       "title": "Harry Potter and the Goblet of Fire",
       "year": "2005",
       "imdbId": "tt0330373",
@@ -468,7 +499,7 @@
         "runtime": 157,
         "overview": "When his name emerges from the Goblet of Fire, Harry Potter becomes a competitor in a grueling battle for glory among three wizarding schools. Signs of Voldemort's return emerge as Harry's friends help him prepare for the Triwizard Tournament.",
         "voteAverage": 7.803,
-        "voteCount": 22155,
+        "voteCount": 22156,
         "posterUrl": "https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/1OV7hau4D3rWGS5bu8sqBYeVpe.jpg",
         "genres": [
@@ -478,7 +509,7 @@
       }
     },
     {
-      "no": "16",
+      "no": "17",
       "title": "Harry Potter and the Half-Blood Prince",
       "year": "2009",
       "imdbId": "tt0417741",
@@ -509,7 +540,7 @@
       }
     },
     {
-      "no": "17",
+      "no": "18",
       "title": "Harry Potter and the Order of the Phoenix",
       "year": "2007",
       "imdbId": "tt0373889",
@@ -540,7 +571,7 @@
       }
     },
     {
-      "no": "18",
+      "no": "19",
       "title": "Harry Potter and the Prisoner of Azkaban",
       "year": "2004",
       "imdbId": "tt0304141",
@@ -571,7 +602,7 @@
       }
     },
     {
-      "no": "19",
+      "no": "20",
       "title": "Harry Potter and the Sorcerer's Stone",
       "year": "2001",
       "imdbId": "tt0241527",
@@ -602,7 +633,7 @@
       }
     },
     {
-      "no": "20",
+      "no": "21",
       "title": "I Am Legend",
       "year": "2007",
       "imdbId": "tt0480249",
@@ -634,7 +665,7 @@
       }
     },
     {
-      "no": "21",
+      "no": "22",
       "title": "Indiana Jones and the Kingdom of the Crystal Skull",
       "year": "2008",
       "imdbId": "tt0367882",
@@ -665,7 +696,7 @@
       }
     },
     {
-      "no": "22",
+      "no": "23",
       "title": "Indiana Jones and the Last Crusade",
       "year": "1989",
       "imdbId": "tt0097576",
@@ -696,7 +727,7 @@
       }
     },
     {
-      "no": "23",
+      "no": "24",
       "title": "Indiana Jones and the Temple of Doom",
       "year": "1984",
       "imdbId": "tt0087469",
@@ -727,7 +758,7 @@
       }
     },
     {
-      "no": "24",
+      "no": "25",
       "title": "John Wick",
       "year": "2014",
       "imdbId": "tt2911666",
@@ -758,7 +789,7 @@
       }
     },
     {
-      "no": "25",
+      "no": "26",
       "title": "Jurassic Park",
       "year": "1993",
       "imdbId": "tt0107290",
@@ -778,7 +809,7 @@
         "releaseDate": "1993-06-11",
         "runtime": 127,
         "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
-        "voteAverage": 7.969,
+        "voteAverage": 8,
         "voteCount": 17854,
         "posterUrl": "https://image.tmdb.org/t/p/w500/maFjKnJ62hDQ9E66dKqDZgbUy0H.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/jzt9HuhIAdH9qp0K2MA1m5V8sgq.jpg",
@@ -789,7 +820,39 @@
       }
     },
     {
-      "no": "26",
+      "no": "27",
+      "title": "Knives Out",
+      "year": "2019",
+      "imdbId": "tt8946378",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "NZ",
+        "format": "Blu-ray",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-30",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 546554,
+        "title": "Knives Out",
+        "originalTitle": "Knives Out",
+        "releaseDate": "2019-11-27",
+        "runtime": 131,
+        "overview": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+        "voteAverage": 7.841,
+        "voteCount": 14009,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      }
+    },
+    {
+      "no": "28",
       "title": "Lord of the Rings: The Fellowship of the Ring",
       "year": "2001",
       "imdbId": "tt0120737",
@@ -810,7 +873,7 @@
         "runtime": 179,
         "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
         "voteAverage": 8.435,
-        "voteCount": 27554,
+        "voteCount": 27555,
         "posterUrl": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/a0lfia8tk8ifkrve0Tn8wkISUvs.jpg",
         "genres": [
@@ -821,7 +884,7 @@
       }
     },
     {
-      "no": "27",
+      "no": "29",
       "title": "Lord of the Rings: The Return of the King",
       "year": "2003",
       "imdbId": "tt0167260",
@@ -842,7 +905,7 @@
         "runtime": 201,
         "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",
         "voteAverage": 8.498,
-        "voteCount": 26551,
+        "voteCount": 26552,
         "posterUrl": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
         "genres": [
@@ -853,7 +916,7 @@
       }
     },
     {
-      "no": "28",
+      "no": "30",
       "title": "Lord of the Rings: The Two Towers",
       "year": "2002",
       "imdbId": "tt0167261",
@@ -885,7 +948,7 @@
       }
     },
     {
-      "no": "29",
+      "no": "31",
       "title": "Man of Steel",
       "year": "2013",
       "imdbId": "tt0770828",
@@ -917,7 +980,7 @@
       }
     },
     {
-      "no": "30",
+      "no": "32",
       "title": "Minority Report",
       "year": "2002",
       "imdbId": "tt0181689",
@@ -949,7 +1012,7 @@
       }
     },
     {
-      "no": "31",
+      "no": "33",
       "title": "Nacho Libre",
       "year": "2006",
       "imdbId": "tt0457510",
@@ -969,7 +1032,7 @@
         "releaseDate": "2006-06-16",
         "runtime": 92,
         "overview": "Ignacio, a disrespected cook at a Mexican monastery, can barely afford to feed the orphans who live there. Inspired by a local wrestling hero, he decides to moonlight as the not-so-famous Luchador \"Nacho Libre\" to earn money for the monastery -- not to mention the admiration of beautiful nun Sister Encarnación.",
-        "voteAverage": 6.517,
+        "voteAverage": 6.5,
         "voteCount": 1848,
         "posterUrl": "https://image.tmdb.org/t/p/w500/kh7B91bMl2lZ0mH9WhPfaNUIEQH.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/g2yTT9lB5I1DA1uBWT7m4wrYuVz.jpg",
@@ -979,7 +1042,7 @@
       }
     },
     {
-      "no": "32",
+      "no": "34",
       "title": "No Time To Die",
       "year": "2021",
       "imdbId": "tt2382320",
@@ -1011,7 +1074,38 @@
       }
     },
     {
-      "no": "33",
+      "no": "35",
+      "title": "Oppenheimer",
+      "year": "2023",
+      "imdbId": "tt15398776",
+      "ownership": {
+        "certification": "M",
+        "boughtFrom": "NZ",
+        "format": "4K UHD",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-30",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 872585,
+        "title": "Oppenheimer",
+        "originalTitle": "Oppenheimer",
+        "releaseDate": "2023-07-19",
+        "runtime": 181,
+        "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+        "voteAverage": 8.032,
+        "voteCount": 11771,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      }
+    },
+    {
+      "no": "36",
       "title": "Oblivion",
       "year": "2013",
       "imdbId": "tt1483013",
@@ -1044,7 +1138,7 @@
       }
     },
     {
-      "no": "34",
+      "no": "37",
       "title": "Quantum of Solace",
       "year": "2008",
       "imdbId": "tt0830515",
@@ -1076,7 +1170,7 @@
       }
     },
     {
-      "no": "35",
+      "no": "38",
       "title": "Raiders of the Lost Ark",
       "year": "1981",
       "imdbId": "tt0082971",
@@ -1097,7 +1191,7 @@
         "runtime": 115,
         "overview": "When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
         "voteAverage": 7.923,
-        "voteCount": 13624,
+        "voteCount": 13625,
         "posterUrl": "https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/zPACwR32amTNvzId9qyapCWXYDJ.jpg",
         "genres": [
@@ -1107,7 +1201,7 @@
       }
     },
     {
-      "no": "36",
+      "no": "39",
       "title": "Ready Player One",
       "year": "2018",
       "imdbId": "tt1677720",
@@ -1127,8 +1221,8 @@
         "releaseDate": "2018-03-28",
         "runtime": 140,
         "overview": "When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.",
-        "voteAverage": 7.586,
-        "voteCount": 16909,
+        "voteAverage": 7.587,
+        "voteCount": 16911,
         "posterUrl": "https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
         "genres": [
@@ -1139,7 +1233,7 @@
       }
     },
     {
-      "no": "",
+      "no": "40",
       "title": "Sherlock Holmes",
       "year": "2009",
       "imdbId": "tt0988045",
@@ -1171,7 +1265,7 @@
       }
     },
     {
-      "no": "",
+      "no": "41",
       "title": "Sherlock Holmes: A Game of Shadows",
       "year": "2011",
       "imdbId": "tt1515091",
@@ -1203,7 +1297,7 @@
       }
     },
     {
-      "no": "37",
+      "no": "42",
       "title": "Skyfall",
       "year": "2012",
       "imdbId": "tt1074638",
@@ -1235,7 +1329,7 @@
       }
     },
     {
-      "no": "38",
+      "no": "43",
       "title": "Sonic the Hedgehog",
       "year": "2020",
       "imdbId": "tt3794354",
@@ -1268,7 +1362,7 @@
       }
     },
     {
-      "no": "39",
+      "no": "44",
       "title": "Sonic the Hedgehog 2",
       "year": "2022",
       "imdbId": "tt12412888",
@@ -1301,7 +1395,7 @@
       }
     },
     {
-      "no": "40",
+      "no": "45",
       "title": "Sonic the Hedgehog 3",
       "year": "2024",
       "imdbId": "tt18259086",
@@ -1334,7 +1428,7 @@
       }
     },
     {
-      "no": "41",
+      "no": "46",
       "title": "Spectre",
       "year": "2015",
       "imdbId": "tt2379713",
@@ -1354,8 +1448,8 @@
         "releaseDate": "2015-10-26",
         "runtime": 148,
         "overview": "A cryptic message from Bond’s past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE.",
-        "voteAverage": 6.569,
-        "voteCount": 11239,
+        "voteAverage": 6.57,
+        "voteCount": 11240,
         "posterUrl": "https://image.tmdb.org/t/p/w500/zj8ongFhtWNsVlfjOGo8pSr7PQg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/8lBViysvNJBPkl6zG1LVAaW3qhj.jpg",
         "genres": [
@@ -1366,7 +1460,7 @@
       }
     },
     {
-      "no": "42",
+      "no": "47",
       "title": "Terminator",
       "year": "1984",
       "imdbId": "tt0088247",
@@ -1398,7 +1492,7 @@
       }
     },
     {
-      "no": "43",
+      "no": "48",
       "title": "Terminator 2: Judgement Day",
       "year": "1991",
       "imdbId": "tt0103064",
@@ -1419,7 +1513,7 @@
         "runtime": 137,
         "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
         "voteAverage": 8.149,
-        "voteCount": 14280,
+        "voteCount": 14281,
         "posterUrl": "https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
         "genres": [
@@ -1430,7 +1524,7 @@
       }
     },
     {
-      "no": "44",
+      "no": "49",
       "title": "The Bourne Identity",
       "year": "2002",
       "imdbId": "tt0258463",
@@ -1463,7 +1557,7 @@
       }
     },
     {
-      "no": "45",
+      "no": "50",
       "title": "The Dark Knight",
       "year": "2008",
       "imdbId": "tt0468569",
@@ -1495,7 +1589,7 @@
       }
     },
     {
-      "no": "46",
+      "no": "51",
       "title": "The Matrix",
       "year": "1999",
       "imdbId": "tt0133093",
@@ -1516,7 +1610,7 @@
         "runtime": 136,
         "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
         "voteAverage": 8.246,
-        "voteCount": 27891,
+        "voteCount": 27892,
         "posterUrl": "https://image.tmdb.org/t/p/w500/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
         "genres": [
@@ -1526,7 +1620,41 @@
       }
     },
     {
-      "no": "47",
+      "no": "52",
+      "title": "The Super Mario Bros. Movie",
+      "year": "2023",
+      "imdbId": "tt6718170",
+      "ownership": {
+        "certification": "PG",
+        "boughtFrom": "NZ",
+        "format": "Blu-ray",
+        "edition": "Standard",
+        "notes": "",
+        "dateAdded": "2026-05-30",
+        "posterOverrideUrl": ""
+      },
+      "tmdb": {
+        "id": 502356,
+        "title": "The Super Mario Bros. Movie",
+        "originalTitle": "The Super Mario Bros. Movie",
+        "releaseDate": "2023-04-05",
+        "runtime": 93,
+        "overview": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+        "voteAverage": 7.601,
+        "voteCount": 10750,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w500/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Adventure",
+          "Fantasy",
+          "Animation"
+        ]
+      }
+    },
+    {
+      "no": "53",
       "title": "Titanic",
       "year": "1997",
       "imdbId": "tt0120338",
@@ -1547,7 +1675,7 @@
         "runtime": 194,
         "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
         "voteAverage": 7.903,
-        "voteCount": 27158,
+        "voteCount": 27159,
         "posterUrl": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg",
         "genres": [
@@ -1557,7 +1685,7 @@
       }
     },
     {
-      "no": "48",
+      "no": "54",
       "title": "Top Gun: Maverick",
       "year": "2022",
       "imdbId": "tt1745960",
@@ -1577,7 +1705,7 @@
         "releaseDate": "2022-05-21",
         "runtime": 131,
         "overview": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
-        "voteAverage": 8.158,
+        "voteAverage": 8.2,
         "voteCount": 10968,
         "posterUrl": "https://image.tmdb.org/t/p/w500/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
@@ -1588,7 +1716,7 @@
       }
     },
     {
-      "no": "49",
+      "no": "55",
       "title": "Tron Legacy",
       "year": "2010",
       "imdbId": "tt1104001",
@@ -1620,7 +1748,7 @@
       }
     },
     {
-      "no": "50",
+      "no": "56",
       "title": "Twister",
       "year": "1996",
       "imdbId": "tt0117998",
@@ -1652,7 +1780,7 @@
       }
     },
     {
-      "no": "51",
+      "no": "57",
       "title": "Vertigo",
       "year": "1958",
       "imdbId": "tt0052357",

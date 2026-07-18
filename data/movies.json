@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T13:04:34.343Z",
+  "generatedAt": "2026-07-18T12:52:02.640Z",
   "source": "Google Sheets CSV",
   "sourceUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQIiZPy4x2y8nUIu9W3ZISLTuD7cm6kQ2wsJlq07gbSnPhc7Avong2zDaJ9PI7PJfrHP6blBQT8wVRb/pub?gid=367444898&single=true&output=csv",
   "tmdbEnabled": true,
@@ -27,7 +27,7 @@
         "runtime": 117,
         "overview": "A story very loosely based the 480 B.C. Battle of Thermopylae, where the King of Sparta led his army against the advancing Persians.",
         "voteAverage": 7.207,
-        "voteCount": 14849,
+        "voteCount": 14852,
         "posterUrl": "https://image.tmdb.org/t/p/w500/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/lgBZlJ1LHQel5nneNQMoesmvc7l.jpg",
         "genres": [
@@ -59,7 +59,7 @@
         "runtime": 141,
         "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
         "voteAverage": 7.275,
-        "voteCount": 24602,
+        "voteCount": 24608,
         "posterUrl": "https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
         "genres": [
@@ -91,7 +91,7 @@
         "runtime": 149,
         "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
         "voteAverage": 8.239,
-        "voteCount": 32286,
+        "voteCount": 32293,
         "posterUrl": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
         "genres": [
@@ -122,8 +122,8 @@
         "releaseDate": "2019-04-24",
         "runtime": 181,
         "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
-        "voteAverage": 8.239,
-        "voteCount": 28027,
+        "voteAverage": 8.2,
+        "voteCount": 28035,
         "posterUrl": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
         "genres": [
@@ -155,7 +155,7 @@
         "runtime": 116,
         "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
         "voteAverage": 8.327,
-        "voteCount": 21991,
+        "voteCount": 21994,
         "posterUrl": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
         "genres": [
@@ -187,7 +187,7 @@
         "runtime": 108,
         "overview": "Marty and Doc are at it again as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
         "voteAverage": 7.785,
-        "voteCount": 14045,
+        "voteCount": 14046,
         "posterUrl": "https://image.tmdb.org/t/p/w500/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/w6tPctxWAsHoQXeKxxNOT6lYKpx.jpg",
         "genres": [
@@ -219,7 +219,7 @@
         "runtime": 119,
         "overview": "The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
         "voteAverage": 7.495,
-        "voteCount": 11619,
+        "voteCount": 11620,
         "posterUrl": "https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/AtF7TESJEMmImBRUj9Z7HmW2ZH0.jpg",
         "genres": [
@@ -250,8 +250,8 @@
         "releaseDate": "1998-08-21",
         "runtime": 121,
         "overview": "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
-        "voteAverage": 6.844,
-        "voteCount": 6781,
+        "voteAverage": 6.845,
+        "voteCount": 6784,
         "posterUrl": "https://image.tmdb.org/t/p/w500/oWT70TvbsmQaqyphCZpsnQR7R32.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/7NKfxJrQn053UJeLftlx4m4NTzo.jpg",
         "genres": [
@@ -281,8 +281,8 @@
         "releaseDate": "1982-06-25",
         "runtime": 118,
         "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
-        "voteAverage": 7.937,
-        "voteCount": 15119,
+        "voteAverage": 7.936,
+        "voteCount": 15121,
         "posterUrl": "https://image.tmdb.org/t/p/w500/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/hJ5R9d6QuH3tzr8L8neZZTuzNXm.jpg",
         "genres": [
@@ -314,7 +314,7 @@
         "runtime": 164,
         "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
         "voteAverage": 7.597,
-        "voteCount": 15306,
+        "voteCount": 15310,
         "posterUrl": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/gNdLJU9TxrpGx4dkZidjys3fyy0.jpg",
         "genres": [
@@ -345,7 +345,7 @@
         "runtime": 144,
         "overview": "Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a high-stakes poker game in Montenegro, where he intends to use his winnings to establish his financial grip on the terrorist market. M sends Bond—on his maiden mission as a 00 Agent—to attend this game and prevent Le Chiffre from winning. With the help of Vesper Lynd and Felix Leiter, Bond enters the most important poker game in his already dangerous career.",
         "voteAverage": 7.575,
-        "voteCount": 11786,
+        "voteCount": 11788,
         "posterUrl": "https://image.tmdb.org/t/p/w500/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/klJMCIblHLFwCuGjKz7tyOpekIC.jpg",
         "genres": [
@@ -377,7 +377,7 @@
         "runtime": 132,
         "overview": "High above the city of L.A. a team of terrorists has seized a building, taken hostages, and declared war. One man has manages to escape... An off-duty cop hiding somewhere inside. He's alone, tired... and the only chance anyone has got.",
         "voteAverage": 7.814,
-        "voteCount": 12402,
+        "voteCount": 12405,
         "posterUrl": "https://image.tmdb.org/t/p/w500/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/bvk2AAH64lP2YZs02Q3jskfHT8j.jpg",
         "genres": [
@@ -408,7 +408,7 @@
         "runtime": 155,
         "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
         "voteAverage": 7.782,
-        "voteCount": 15110,
+        "voteCount": 15114,
         "posterUrl": "https://image.tmdb.org/t/p/w500/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/qVgZu5BTx6pu4owCvVOm4zjTfOi.jpg",
         "genres": [
@@ -440,7 +440,7 @@
         "runtime": 167,
         "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
         "voteAverage": 8.128,
-        "voteCount": 8174,
+        "voteCount": 8179,
         "posterUrl": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
         "genres": [
@@ -470,8 +470,8 @@
         "releaseDate": "1982-06-11",
         "runtime": 115,
         "overview": "An alien is left behind on Earth and saved by the 10-year-old Elliott who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliott, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
-        "voteAverage": 7.517,
-        "voteCount": 12078,
+        "voteAverage": 7.518,
+        "voteCount": 12079,
         "posterUrl": "https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
         "genres": [
@@ -503,7 +503,7 @@
         "runtime": 114,
         "overview": "Major Bill Cage is an officer who has never seen a day of combat when he is unceremoniously demoted and dropped into combat. Cage is killed within minutes, managing to take an alpha alien down with him. He awakens back at the beginning of the same day and is forced to fight and die again... and again - as physical contact with the alien has thrown him into a time loop.",
         "voteAverage": 7.642,
-        "voteCount": 15212,
+        "voteCount": 15215,
         "posterUrl": "https://image.tmdb.org/t/p/w500/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/4V1yIoAKPMRQwGBaSses8Bp2nsi.jpg",
         "genres": [
@@ -533,8 +533,8 @@
         "releaseDate": "2002-11-13",
         "runtime": 161,
         "overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione's magical abilities and courage.",
-        "voteAverage": 7.706,
-        "voteCount": 23753,
+        "voteAverage": 7.7,
+        "voteCount": 23759,
         "posterUrl": "https://image.tmdb.org/t/p/w500/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/1stUIsjawROZxjiCMtqqXqgfZWC.jpg",
         "genres": [
@@ -564,8 +564,8 @@
         "releaseDate": "2010-11-17",
         "runtime": 146,
         "overview": "Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.",
-        "voteAverage": 7.734,
-        "voteCount": 20526,
+        "voteAverage": 7.735,
+        "voteCount": 20528,
         "posterUrl": "https://image.tmdb.org/t/p/w500/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/vcrgU0KaNj5mKUCIQSUdiQwTE9y.jpg",
         "genres": [
@@ -596,7 +596,7 @@
         "runtime": 130,
         "overview": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
         "voteAverage": 8.08,
-        "voteCount": 22132,
+        "voteCount": 22137,
         "posterUrl": "https://image.tmdb.org/t/p/w500/c54HpQmuwXjHq2C9wmoACjxoom3.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/cbcpDn6XJaIGoOil1bKuskU8ds4.jpg",
         "genres": [
@@ -627,7 +627,7 @@
         "runtime": 157,
         "overview": "When his name emerges from the Goblet of Fire, Harry Potter becomes a competitor in a grueling battle for glory among three wizarding schools. Signs of Voldemort's return emerge as Harry's friends help him prepare for the Triwizard Tournament.",
         "voteAverage": 7.804,
-        "voteCount": 22335,
+        "voteCount": 22339,
         "posterUrl": "https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/1OV7hau4D3rWGS5bu8sqBYeVpe.jpg",
         "genres": [
@@ -658,7 +658,7 @@
         "runtime": 153,
         "overview": "Dumbledore tries to prepare Harry for the final battle with Voldemort while Death Eaters wreak havoc in both Muggle and Wizard worlds.",
         "voteAverage": 7.681,
-        "voteCount": 20933,
+        "voteCount": 20938,
         "posterUrl": "https://image.tmdb.org/t/p/w500/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/urDWNffjwmNi5IQaezw9GwqkUXa.jpg",
         "genres": [
@@ -688,8 +688,8 @@
         "releaseDate": "2007-07-08",
         "runtime": 138,
         "overview": "When a new professor's methods leave Hogwarts unprepared to fight the rising tide of evil, Harry teaches students how to defend against the dark arts.",
-        "voteAverage": 7.673,
-        "voteCount": 20949,
+        "voteAverage": 7.7,
+        "voteCount": 20953,
         "posterUrl": "https://image.tmdb.org/t/p/w500/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/pkxPkHOPJjOvzfQOclANEBT8OfK.jpg",
         "genres": [
@@ -719,8 +719,8 @@
         "releaseDate": "2004-05-31",
         "runtime": 141,
         "overview": "Harry Potter's life is in danger once more as dangerous wizard Sirius Black has escaped from Azkaban Prison and is heading to Hogwarts.",
-        "voteAverage": 8.01,
-        "voteCount": 23330,
+        "voteAverage": 8,
+        "voteCount": 23333,
         "posterUrl": "https://image.tmdb.org/t/p/w500/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/htmYEfH7TQgzsXHCnNXxmoYKQtL.jpg",
         "genres": [
@@ -751,7 +751,7 @@
         "runtime": 152,
         "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
         "voteAverage": 7.901,
-        "voteCount": 29810,
+        "voteCount": 29816,
         "posterUrl": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/1XAC6RPT01UX9EQGy2JVn5c8pgy.jpg",
         "genres": [
@@ -781,8 +781,8 @@
         "releaseDate": "2007-12-12",
         "runtime": 101,
         "overview": "Robert Neville is a scientist who was unable to stop the spread of the terrible virus that was incurable and man-made. Immune, Neville is now the last human survivor in what is left of New York City and perhaps the world. For three years, Neville has faithfully sent out daily radio messages, desperate to find any other survivors who might be out there. But he is not alone.",
-        "voteAverage": 7.218,
-        "voteCount": 16983,
+        "voteAverage": 7.219,
+        "voteCount": 16989,
         "posterUrl": "https://image.tmdb.org/t/p/w500/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/ePgD1cwmklyrFBjl6z96IuixuSY.jpg",
         "genres": [
@@ -845,7 +845,7 @@
         "runtime": 127,
         "overview": "In 1938, an art collector appeals to eminent archaeologist Dr. Indiana Jones to embark on a search for the Holy Grail. Indy learns that a medieval historian has vanished while searching for it, and the missing man is his own father, Dr. Henry Jones Sr.. He sets out to rescue his father by following clues in the old man's notebook, which his father had mailed to him before he went missing. Indy arrives in Venice, where he enlists the help of a beautiful academic, Dr. Elsa Schneider, along with Marcus Brody and Sallah. Together they must stop the Nazis from recovering the power of eternal life and taking over the world!",
         "voteAverage": 7.854,
-        "voteCount": 11153,
+        "voteCount": 11154,
         "posterUrl": "https://image.tmdb.org/t/p/w500/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/12fvZHskx57kQfNEUXJ3v0flWYQ.jpg",
         "genres": [
@@ -875,8 +875,8 @@
         "releaseDate": "1984-05-23",
         "runtime": 118,
         "overview": "After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees – and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.",
-        "voteAverage": 7.31,
-        "voteCount": 10191,
+        "voteAverage": 7.311,
+        "voteCount": 10192,
         "posterUrl": "https://image.tmdb.org/t/p/w500/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
         "genres": [
@@ -907,7 +907,7 @@
         "runtime": 101,
         "overview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
         "voteAverage": 7.46,
-        "voteCount": 21001,
+        "voteCount": 21002,
         "posterUrl": "https://image.tmdb.org/t/p/w500/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
         "genres": [
@@ -938,7 +938,7 @@
         "runtime": 127,
         "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
         "voteAverage": 7.975,
-        "voteCount": 18032,
+        "voteCount": 18037,
         "posterUrl": "https://image.tmdb.org/t/p/w500/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/o7LzVmlOSYc3EspyVMC9bsTTARc.jpg",
         "genres": [
@@ -969,7 +969,7 @@
         "runtime": 131,
         "overview": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
         "voteAverage": 7.84,
-        "voteCount": 14172,
+        "voteCount": 14176,
         "posterUrl": "https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
         "genres": [
@@ -1000,8 +1000,8 @@
         "releaseDate": "1994-09-14",
         "runtime": 111,
         "overview": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps.",
-        "voteAverage": 8.294,
-        "voteCount": 16230,
+        "voteAverage": 8.295,
+        "voteCount": 16232,
         "posterUrl": "https://image.tmdb.org/t/p/w500/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/fj0hwDJEOOHllRim2BMt5L7tbjf.jpg",
         "genres": [
@@ -1033,7 +1033,7 @@
         "runtime": 179,
         "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
         "voteAverage": 8.438,
-        "voteCount": 27856,
+        "voteCount": 27859,
         "posterUrl": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/mWDdRXTivGE7aaY2vo1Ie0PfCX5.jpg",
         "genres": [
@@ -1065,7 +1065,7 @@
         "runtime": 201,
         "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",
         "voteAverage": 8.501,
-        "voteCount": 26855,
+        "voteCount": 26859,
         "posterUrl": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
         "genres": [
@@ -1096,8 +1096,8 @@
         "releaseDate": "2002-12-18",
         "runtime": 179,
         "overview": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor. Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
-        "voteAverage": 8.422,
-        "voteCount": 24136,
+        "voteAverage": 8.423,
+        "voteCount": 24139,
         "posterUrl": "https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
         "genres": [
@@ -1129,7 +1129,7 @@
         "runtime": 143,
         "overview": "A young boy learns that he has extraordinary powers and is not of this earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.",
         "voteAverage": 6.653,
-        "voteCount": 16333,
+        "voteCount": 16334,
         "posterUrl": "https://image.tmdb.org/t/p/w500/8GFtkImmK0K1VaUChR0n9O61CFU.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/j2MlEEpA3wgwQiJB6p1UHC50oiw.jpg",
         "genres": [
@@ -1160,8 +1160,8 @@
         "releaseDate": "2002-06-20",
         "runtime": 145,
         "overview": "John Anderton is a top 'Precrime' cop in the late-21st century, when technology can predict crimes before they're committed. But Anderton becomes the quarry when another investigator targets him for a murder charge.",
-        "voteAverage": 7.355,
-        "voteCount": 9716,
+        "voteAverage": 7.356,
+        "voteCount": 9721,
         "posterUrl": "https://image.tmdb.org/t/p/w500/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/PrMb3oeEluauy0q9ZO5xL33A6C.jpg",
         "genres": [
@@ -1193,7 +1193,7 @@
         "runtime": 111,
         "overview": "When Ethan Hunt, the leader of a crack espionage team whose perilous operation has gone awry with no explanation, discovers that a mole has penetrated the CIA, he's surprised to learn that he's the prime suspect. To clear his name, Hunt now must ferret out the real double agent and, in the process, even the score.",
         "voteAverage": 7.026,
-        "voteCount": 10062,
+        "voteCount": 10066,
         "posterUrl": "https://image.tmdb.org/t/p/w500/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/sra8XnL96OyLHENcglmZJg6HA8z.jpg",
         "genres": [
@@ -1225,7 +1225,7 @@
         "runtime": 123,
         "overview": "With computer genius Luther Stickell at his side and a beautiful thief on his mind, agent Ethan Hunt races across Australia and Spain to stop a former IMF agent from unleashing a genetically engineered biological weapon called Chimera. This mission, should Hunt choose to accept it, plunges him into the center of an international crisis of terrifying magnitude.",
         "voteAverage": 6.143,
-        "voteCount": 7646,
+        "voteCount": 7649,
         "posterUrl": "https://image.tmdb.org/t/p/w500/hfnrual76gPeNFduhD4xzHWpfTw.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/24DZfupDlhXeTchmcOkoGRhP5Vg.jpg",
         "genres": [
@@ -1256,8 +1256,8 @@
         "releaseDate": "2006-04-25",
         "runtime": 126,
         "overview": "Retired from active duty, and training recruits for the Impossible Mission Force, agent Ethan Hunt faces the toughest foe of his career: Owen Davian, an international broker of arms and information, who's as cunning as he is ruthless. Davian emerges to threaten Hunt and all that he holds dear – including the woman Hunt loves.",
-        "voteAverage": 6.766,
-        "voteCount": 7687,
+        "voteAverage": 6.767,
+        "voteCount": 7689,
         "posterUrl": "https://image.tmdb.org/t/p/w500/vKGYCpmQyV9uHybWDzXuII8Los5.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/bYKeB9uUcPmvikjouEEQ86uvPw9.jpg",
         "genres": [
@@ -1289,7 +1289,7 @@
         "runtime": 133,
         "overview": "Ethan Hunt and his team are racing against time to track down a dangerous terrorist named Hendricks, who has gained access to Russian nuclear launch codes and is planning a strike on the United States. An attempt to stop him ends in an explosion causing severe destruction to the Kremlin and the IMF to be implicated in the bombing, forcing the President to disavow them. No longer being aided by the government, Ethan and his team chase Hendricks around the globe, although they might still be too late to stop a disaster.",
         "voteAverage": 7.115,
-        "voteCount": 10840,
+        "voteCount": 10842,
         "posterUrl": "https://image.tmdb.org/t/p/w500/eRZTGx7GsiKqPch96k27LK005ZL.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/ih4lZkUpmSE7AP3maymiO72xJ1z.jpg",
         "genres": [
@@ -1321,7 +1321,7 @@
         "runtime": 131,
         "overview": "Ethan and team take on their most impossible mission yet—eradicating 'The Syndicate', an International and highly-skilled rogue organization committed to destroying the IMF.",
         "voteAverage": 7.226,
-        "voteCount": 9783,
+        "voteCount": 9785,
         "posterUrl": "https://image.tmdb.org/t/p/w500/fRJLXQBHK2wyznK5yZbO7vmsuVK.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/vYIUN5rrCncHFY8WvcuXQlM4hk5.jpg",
         "genres": [
@@ -1352,7 +1352,7 @@
         "runtime": 147,
         "overview": "When an IMF mission ends badly, the world is faced with dire consequences. As Ethan Hunt takes it upon himself to fulfill his original briefing, the CIA begin to question his loyalty and his motives. The IMF team find themselves in a race against time, hunted by assassins while trying to prevent a global catastrophe.",
         "voteAverage": 7.452,
-        "voteCount": 9207,
+        "voteCount": 9210,
         "posterUrl": "https://image.tmdb.org/t/p/w500/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/3IzR3VhZAyhxVnuRRUHFLkfK4hT.jpg",
         "genres": [
@@ -1382,7 +1382,7 @@
         "releaseDate": "2006-06-16",
         "runtime": 92,
         "overview": "Ignacio, a disrespected cook at a Mexican monastery, can barely afford to feed the orphans who live there. Inspired by a local wrestling hero, he decides to moonlight as the not-so-famous Luchador \"Nacho Libre\" to earn money for the monastery -- not to mention the admiration of beautiful nun Sister Encarnación.",
-        "voteAverage": 6.526,
+        "voteAverage": 6.5,
         "voteCount": 1880,
         "posterUrl": "https://image.tmdb.org/t/p/w500/kh7B91bMl2lZ0mH9WhPfaNUIEQH.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/nNCleqiADKVMKWDC5G7hjYcVCmv.jpg",
@@ -1414,8 +1414,8 @@
         "releaseDate": "2021-09-29",
         "runtime": 163,
         "overview": "Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
-        "voteAverage": 7.337,
-        "voteCount": 7203,
+        "voteAverage": 7.3,
+        "voteCount": 7204,
         "posterUrl": "https://image.tmdb.org/t/p/w500/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/bz7pwNGCbV576COsDcYN9MbEACC.jpg",
         "genres": [
@@ -1447,7 +1447,7 @@
         "runtime": 181,
         "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
         "voteAverage": 8,
-        "voteCount": 11999,
+        "voteCount": 12001,
         "posterUrl": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
         "genres": [
@@ -1477,8 +1477,8 @@
         "releaseDate": "2013-04-10",
         "runtime": 124,
         "overview": "Jack Harper is one of the last few drone repairmen stationed on Earth. Part of a massive operation to extract vital resources after decades of war with a terrifying threat known as the Scavs, Jack’s mission is nearly complete. His existence is brought crashing down when he rescues a beautiful  stranger from a downed spacecraft. Her arrival triggers a chain of events that  forces him to question everything he knows and puts the fate of humanity in his hands.",
-        "voteAverage": 6.684,
-        "voteCount": 11605,
+        "voteAverage": 6.685,
+        "voteCount": 11610,
         "posterUrl": "https://image.tmdb.org/t/p/w500/bYLM3GpNUZnoFElPXp1zlhDPdtv.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/2kVt8oj1cSz4GAP0Hi8SESOiH0T.jpg",
         "genres": [
@@ -1511,7 +1511,7 @@
         "runtime": 106,
         "overview": "Betrayed by Vesper, the woman he loved, 007 fights the urge to make his latest mission personal. Pursuing his determination to uncover the truth, Bond and M interrogate Mr. White, who reveals that the organization that blackmailed Vesper is far more complex and dangerous than anyone had imagined.",
         "voteAverage": 6.337,
-        "voteCount": 8615,
+        "voteCount": 8617,
         "posterUrl": "https://image.tmdb.org/t/p/w500/e3DXXLJHGqMx9yYpXsql1XNljmM.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/uGs5Z7dMguf7kxWubGFcp9EhKcy.jpg",
         "genres": [
@@ -1542,8 +1542,8 @@
         "releaseDate": "1981-06-12",
         "runtime": 115,
         "overview": "When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
-        "voteAverage": 7.9,
-        "voteCount": 13751,
+        "voteAverage": 7.926,
+        "voteCount": 13752,
         "posterUrl": "https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/zPACwR32amTNvzId9qyapCWXYDJ.jpg",
         "genres": [
@@ -1574,7 +1574,7 @@
         "runtime": 140,
         "overview": "When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.",
         "voteAverage": 7.589,
-        "voteCount": 17074,
+        "voteCount": 17076,
         "posterUrl": "https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
         "genres": [
@@ -1605,13 +1605,13 @@
         "releaseDate": "2009-12-23",
         "runtime": 129,
         "overview": "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
-        "voteAverage": 7.221,
-        "voteCount": 14859,
+        "voteAverage": 7.222,
+        "voteCount": 14862,
         "posterUrl": "https://image.tmdb.org/t/p/w500/momkKuWburNTqKBF6ez7rvhYVhE.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/85g84VtSf9tu1A9JqqruXEHspb7.jpg",
         "genres": [
+          "Action",
           "Adventure",
-          "Crime",
           "Mystery"
         ]
       }
@@ -1638,13 +1638,13 @@
         "runtime": 129,
         "overview": "There is a new criminal mastermind at large (Professor Moriarty) and not only is he Holmes’ intellectual equal, but his capacity for evil and lack of conscience may give him an advantage over the detective.",
         "voteAverage": 7.145,
-        "voteCount": 11007,
+        "voteCount": 11009,
         "posterUrl": "https://image.tmdb.org/t/p/w500/2HsHurlnTOyU6yUS14gY6BQCyRs.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/lWNASscWXn32Asr9vkB1wq6cKvD.jpg",
         "genres": [
+          "Action",
           "Adventure",
-          "Mystery",
-          "Crime"
+          "Mystery"
         ]
       }
     },
@@ -1669,8 +1669,8 @@
         "releaseDate": "2012-10-24",
         "runtime": 143,
         "overview": "When Bond's latest assignment goes gravely wrong, agents around the world are exposed and MI6 headquarters is attacked. While M faces challenges to her authority and position from Gareth Mallory, the new Chairman of the Intelligence and Security Committee, it's up to Bond, aided only by field agent Eve, to locate the mastermind behind the attack.",
-        "voteAverage": 7.264,
-        "voteCount": 16204,
+        "voteAverage": 7.263,
+        "voteCount": 16206,
         "posterUrl": "https://image.tmdb.org/t/p/w500/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/wkA622CCN2X0uwpgqYEOnUYEDf5.jpg",
         "genres": [
@@ -1702,7 +1702,7 @@
         "runtime": 99,
         "overview": "Powered with incredible speed, Sonic The Hedgehog embraces his new home on Earth. That is, until Sonic sparks the attention of super-uncool evil genius Dr. Robotnik. Now it’s super-villain vs. super-sonic in an all-out race across the globe to stop Robotnik from using Sonic’s unique power for world domination.",
         "voteAverage": 7.281,
-        "voteCount": 10445,
+        "voteCount": 10447,
         "posterUrl": "https://image.tmdb.org/t/p/w500/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/stmYfCUGd8Iy6kAMBr6AmWqx8Bq.jpg",
         "genres": [
@@ -1735,7 +1735,7 @@
         "runtime": 123,
         "overview": "After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.",
         "voteAverage": 7.428,
-        "voteCount": 5917,
+        "voteCount": 5919,
         "posterUrl": "https://image.tmdb.org/t/p/w500/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/xuLA0pii2IMJW2puT7EvJtgpg0H.jpg",
         "genres": [
@@ -1767,8 +1767,8 @@
         "releaseDate": "2024-12-19",
         "runtime": 110,
         "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
-        "voteAverage": 7.61,
-        "voteCount": 3350,
+        "voteAverage": 7.609,
+        "voteCount": 3351,
         "posterUrl": "https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
         "genres": [
@@ -1801,7 +1801,7 @@
         "runtime": 148,
         "overview": "A cryptic message from Bond’s past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE.",
         "voteAverage": 6.6,
-        "voteCount": 11319,
+        "voteCount": 11320,
         "posterUrl": "https://image.tmdb.org/t/p/w500/zj8ongFhtWNsVlfjOGo8pSr7PQg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/8lBViysvNJBPkl6zG1LVAaW3qhj.jpg",
         "genres": [
@@ -1832,8 +1832,8 @@
         "releaseDate": "1984-10-26",
         "runtime": 108,
         "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
-        "voteAverage": 7.7,
-        "voteCount": 14771,
+        "voteAverage": 7.685,
+        "voteCount": 14774,
         "posterUrl": "https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
         "genres": [
@@ -1864,8 +1864,8 @@
         "releaseDate": "1991-07-03",
         "runtime": 137,
         "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
-        "voteAverage": 8.156,
-        "voteCount": 14481,
+        "voteAverage": 8.157,
+        "voteCount": 14485,
         "posterUrl": "https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
         "genres": [
@@ -1896,8 +1896,8 @@
         "releaseDate": "2012-04-25",
         "runtime": 143,
         "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
-        "voteAverage": 8.056,
-        "voteCount": 38770,
+        "voteAverage": 8.057,
+        "voteCount": 38780,
         "posterUrl": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/pGFQCp12a8andfPlpnmXz44IIvY.jpg",
         "genres": [
@@ -1928,8 +1928,8 @@
         "releaseDate": "2002-06-14",
         "runtime": 119,
         "overview": "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
-        "voteAverage": 7.48,
-        "voteCount": 10178,
+        "voteAverage": 7.481,
+        "voteCount": 10181,
         "posterUrl": "https://image.tmdb.org/t/p/w500/aP8swke3gmowbkfZ6lmNidu0y9p.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/kJaRWmy1BGq3pHyE94LOTteiHer.jpg",
         "genres": [
@@ -1961,7 +1961,7 @@
         "runtime": 152,
         "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
         "voteAverage": 8.533,
-        "voteCount": 36108,
+        "voteCount": 36119,
         "posterUrl": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
         "genres": [
@@ -1992,8 +1992,8 @@
         "releaseDate": "1999-03-31",
         "runtime": 136,
         "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
-        "voteAverage": 8.251,
-        "voteCount": 28192,
+        "voteAverage": 8.3,
+        "voteCount": 28198,
         "posterUrl": "https://image.tmdb.org/t/p/w500/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
         "genres": [
@@ -2024,7 +2024,7 @@
         "runtime": 93,
         "overview": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
         "voteAverage": 7.604,
-        "voteCount": 10892,
+        "voteCount": 10896,
         "posterUrl": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
         "genres": [
@@ -2057,8 +2057,8 @@
         "releaseDate": "1997-12-18",
         "runtime": 194,
         "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
-        "voteAverage": 7.902,
-        "voteCount": 27354,
+        "voteAverage": 7.9,
+        "voteCount": 27357,
         "posterUrl": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg",
         "genres": [
@@ -2088,8 +2088,8 @@
         "releaseDate": "2022-05-21",
         "runtime": 131,
         "overview": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
-        "voteAverage": 8.159,
-        "voteCount": 11169,
+        "voteAverage": 8.158,
+        "voteCount": 11174,
         "posterUrl": "https://image.tmdb.org/t/p/w500/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
         "genres": [
@@ -2120,7 +2120,7 @@
         "runtime": 126,
         "overview": "Sam Flynn, the tech-savvy and daring son of Kevin Flynn, investigates his father's disappearance and is pulled into The Grid. With the help of a mysterious program named Quorra, Sam quests to stop evil dictator Clu from crossing into the real world.",
         "voteAverage": 6.544,
-        "voteCount": 8006,
+        "voteCount": 8008,
         "posterUrl": "https://image.tmdb.org/t/p/w500/8Nc6R8k7bG8frSiDJo0oLucF7dN.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/uUa6jgSr5BQpcBhhaz1PV1JhSa4.jpg",
         "genres": [
@@ -2152,7 +2152,7 @@
         "runtime": 113,
         "overview": "An unprecedented series of violent tornadoes is sweeping across Oklahoma. Tornado chasers, headed by Dr. Jo Harding, attempt to release a groundbreaking device that will allow them to track them and create a more advanced warning system. They are joined by Jo's soon to be ex-husband Bill, a former tornado chaser himself, and his girlfriend Melissa.",
         "voteAverage": 6.565,
-        "voteCount": 3891,
+        "voteCount": 3893,
         "posterUrl": "https://image.tmdb.org/t/p/w500/d4ie3f6QTvNw40V770Uzo87SDZn.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/5oCAo7LFj2x0yByfi5JYirGnK8I.jpg",
         "genres": [
@@ -2183,8 +2183,8 @@
         "releaseDate": "1958-05-09",
         "runtime": 128,
         "overview": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
-        "voteAverage": 8.136,
-        "voteCount": 6385,
+        "voteAverage": 8.135,
+        "voteCount": 6386,
         "posterUrl": "https://image.tmdb.org/t/p/w500/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/w500/rtVwkTqllcmyY4TVOycgVBHppWf.jpg",
         "genres": [
